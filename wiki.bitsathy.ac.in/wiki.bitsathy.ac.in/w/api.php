@@ -1,0 +1,1 @@
+No Content: https://wiki.bitsathy.ac.in/w/api.php?action=webapp-manifest
